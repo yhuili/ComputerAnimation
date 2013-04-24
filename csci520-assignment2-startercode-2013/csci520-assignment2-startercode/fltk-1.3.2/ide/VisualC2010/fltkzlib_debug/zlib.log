@@ -1,0 +1,17 @@
+﻿  adler32.c
+  compress.c
+  crc32.c
+  deflate.c
+  gzclose.c
+  gzlib.c
+  gzread.c
+  gzwrite.c
+  infback.c
+  inffast.c
+  inflate.c
+  inftrees.c
+  trees.c
+  uncompr.c
+  zutil.c
+  Generating Code...
+  zlib.vcxproj -> C:\Users\huili\Desktop\Animation\csci520-assignment2-startercode-2013\csci520-assignment2-startercode\fltk-1.3.2\ide\VisualC2010\..\..\lib\fltkzlibd.lib

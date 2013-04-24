@@ -1,0 +1,3 @@
+﻿  particle.cpp
+c:\users\huili\desktop\animation\particle_system\particle_test\particle_test\particle.cpp(301): warning C4101: 'j' : unreferenced local variable
+  particle_test.vcxproj -> C:\Users\huili\Desktop\Animation\particle_system\particle_test\Debug\particle_test.exe

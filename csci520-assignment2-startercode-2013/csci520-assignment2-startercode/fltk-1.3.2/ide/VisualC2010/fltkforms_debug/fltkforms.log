@@ -1,0 +1,8 @@
+﻿  forms_bitmap.cxx
+  forms_compatability.cxx
+  forms_free.cxx
+  forms_fselect.cxx
+  forms_pixmap.cxx
+  forms_timer.cxx
+  Generating Code...
+  fltkforms.vcxproj -> C:\Users\huili\Desktop\Animation\csci520-assignment2-startercode-2013\csci520-assignment2-startercode\fltk-1.3.2\ide\VisualC2010\..\..\lib\fltkformsd.lib

@@ -1,0 +1,14 @@
+﻿  vector.cpp
+  transform.cpp
+  skeleton.cpp
+  quaternion.cpp
+  ppm.cpp
+  posture.cpp
+  pic.cpp
+  performanceCounter.cpp
+  motion.cpp
+  mocapPlayer.cpp
+  interface.cpp
+  displaySkeleton.cpp
+  Generating Code...
+  mocapPlayer.vcxproj -> C:\Users\huili\Desktop\Animation\csci520-assignment2-startercode-2013\csci520-assignment2-startercode\IDE-starter\VS2010\Debug\mocapPlayer.exe
